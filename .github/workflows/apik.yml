@@ -1,0 +1,2 @@
+- name: Fetch API Data
+  uses: JamesIves/fetch-api-data-action@1.0.15
